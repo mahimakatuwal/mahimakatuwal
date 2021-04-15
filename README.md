@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahimakatuwal
+- 👋 Hi, I’m Mahima Katuwal(@mahimakatuwal)
 - 👀 I’m interested in learning new programming skills.
 - 🌱 I’m currently learning Javascript.
 - Follow me!
